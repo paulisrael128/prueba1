@@ -7,7 +7,7 @@
 -- Versión del servidor: 5.6.16
 -- Versión de PHP: 5.5.9
 
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET SQL_MODE = "estoy cambiando codigo";
 SET time_zone = "+00:00";
 
 
